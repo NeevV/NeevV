@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi👋 I'm Neev!
 
-<!--
-**NeevV/NeevV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+I am a second-year computer science student at the University of Connecticut, passionate about solving challenging problems in software development, learning AI-driven solutions, and creating powerful applications.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
+👯 I’m looking to collaborate on
+🤝 I’m looking for help with
+🌱 I’m currently learning
+💬 Ask me about
+⚡ Fun fact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C OVH Render
